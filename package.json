@@ -1,0 +1,15 @@
+{
+  "name": "prueba-banco-estado",
+  "version": "1.0.0",
+  "description": "Api de prueba que retorna un object array dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Muñoz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
