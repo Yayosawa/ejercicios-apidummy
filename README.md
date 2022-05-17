@@ -5,3 +5,8 @@ Responde un object array dummy.
 ```
   node index.js
 ```
+# Endpoint
+
+```
+  http://localhost:3000/getdummy
+```
